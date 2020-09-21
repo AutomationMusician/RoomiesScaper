@@ -1,0 +1,19 @@
+{
+  "name": "roomiesscraper",
+  "version": "1.0.0",
+  "description": "A Scrapper for Rommies.com",
+  "main": "profileURLScrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutomationMusician/RoomiesScaper.git"
+  },
+  "author": "Josh Fishman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutomationMusician/RoomiesScaper/issues"
+  },
+  "homepage": "https://github.com/AutomationMusician/RoomiesScaper#readme"
+}
